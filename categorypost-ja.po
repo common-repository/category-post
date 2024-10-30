@@ -1,0 +1,26 @@
+# LANGUAGE (LOCALE) translation for Category Post.
+# Copyright (C) 2011 Toro_Unit.
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Post 1.0 Ja\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-21 11:00+0900\n"
+"PO-Revision-Date: 2011-12-22 21:40+0900\n"
+"Last-Translator: Toro_Unit <mail@torounit.com>\n"
+"Language-Team: Toro-Unit <mail@torounit.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+
+msgid "Category Post adds 'Add New' to admin menu with each category."
+msgstr "カテゴリーごとの『新規追加』をサイドメニューに追加します"
+
+msgid "Add New in %s"
+msgstr "%s を追加"
+
